@@ -1,11 +1,11 @@
 # FriendBook
 Social Media Clone App using with express js and Mongodb
 
-Project Overview:
+🔧 Project Overview:
 
 This project is a simplified social media web application developed using Node.js (Express), MongoDB, EJS templates, and JWT-based authentication. It demonstrates essential features of a typical social platform such as authentication, user profile, posts with images/videos, and UI interactions.
 
-Features Implemented:
+📑 Features Implemented:
 
 1. Authentication (JWT + Cookie-based)
 
@@ -73,7 +73,7 @@ Cards use soft shadows, rounded corners
 
 Profile images and post media made consistent size and object-fit: cover
 
-Technical Stack:
+💪 Technical Stack:
 
 Backend: Node.js, Express.js
 
@@ -87,7 +87,7 @@ Frontend: Bootstrap 5 + Custom CSS
 
 Media Uploads: Multer (image/video)
 
-Folder Structure:
+📊 Folder Structure:
 
 FriendBook/
 ├── models/
@@ -110,14 +110,14 @@ FriendBook/
 ├── uploads/
 └── server.js
 
-Logout Route:
+🚪 Logout Route:
 
 router.get('/logout', (req, res) => {
   res.clearCookie('token');
   res.redirect('/api/auth/login');
 });
 
-UI Enhancements Summary:
+🌐 UI Enhancements Summary:
 
 All images resized to fixed width/height using style="object-fit: cover;"
 
@@ -129,11 +129,11 @@ Bootstrap cards used for separation of sections
 
 Modal used for post edit
 
-Final Notes:
+📚 Final Notes:
 
 Ensure .env includes PORT and MONGO_URI
 
-Run: npm install, then npm start - c   #for start the server and clear cache
+Run: npm install, then npm start
 
 Uploads are stored in /uploads
 
