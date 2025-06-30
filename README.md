@@ -90,25 +90,8 @@ Media Uploads: Multer (image/video)
 📊 Folder Structure:
 
 FriendBook/
-├── models/
-│   ├── User.js
-│   └── Post.js
-├── routes/
-│   ├── auth.js
-│   ├── post.js
-│   ├── profile.js
-│   └── user.js
-├── views/
-│   ├── layout/
-│   │   ├── header.ejs
-│   │   └── footer.ejs
-│   ├── home.ejs
-│   ├── profile.ejs
-│   └── login.ejs
-├── public/
-│   └── images/
-├── uploads/
-└── server.js
+![Uploading image.png…]()
+
 
 🚪 Logout Route:
 
