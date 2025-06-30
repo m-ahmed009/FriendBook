@@ -119,3 +119,14 @@ Run: npm install, then npm start
 Uploads are stored in /uploads
 
 All views in EJS with header/footer includes
+
+
+![image](https://github.com/user-attachments/assets/356bba03-86b6-406d-904e-41855bf37659)
+
+![image](https://github.com/user-attachments/assets/8b197231-c277-4019-ba32-7dd5a749d448)
+
+![image](https://github.com/user-attachments/assets/ac537bf1-07b1-4dbc-82d3-d53c0f255e46)
+
+![image](https://github.com/user-attachments/assets/6e2082a7-c084-4a9c-91ee-37a2cfe48d39)
+
+
