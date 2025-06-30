@@ -90,7 +90,8 @@ Media Uploads: Multer (image/video)
 📊 Folder Structure:
 
 FriendBook/
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8c4cded9-d85d-47c5-b3b8-17b6ec1acb0f)
+
 
 
 🚪 Logout Route:
